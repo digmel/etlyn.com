@@ -17,6 +17,9 @@ module.exports = {
         "button-text": "#003654",
         accent: "#90D2EE",
       },
+      fontFamily: {
+        mulish: ["Mulish"],
+      },
     },
     container: {
       center: true,

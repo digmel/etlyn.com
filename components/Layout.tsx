@@ -10,7 +10,7 @@ type TLayout = {
 
 export const Layout = ({ children, title }: TLayout) => {
   return (
-    <div className="bg-screen min-h-screen w-screen flex flex-col">
+    <div className="bg-screen min-h-screen w-screen flex flex-col font-mulish">
       <Head>
         <title>{title}</title>
         <meta charSet="utf-8" />
