@@ -13,6 +13,17 @@ module.exports = {
       sans: ["Graphik", "sans-serif"],
       serif: ["Merriweather", "serif"],
     },
+    colors: {
+      transparent: "transparent",
+      current: "currentColor",
+      section: "#132742",
+      screen: "#11395E",
+      light: "#E8EDF0",
+      highlight: "#00B5FF",
+      button: "#39BAF0",
+      "button-text": "#003654",
+      accent: "#90D2EE",
+    },
   },
   plugins: [],
 };
